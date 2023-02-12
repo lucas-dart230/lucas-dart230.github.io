@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Color Travel</title>
+    </head>
+    <style>
+        h1{
+            color:#2C6705;
+            background-color:yellow;
+            height: 50px;
+            width: 1000px;
+            opacity: 0.9;
+            margin: 25px auto;
+            padding-left: 15px;
+            text-decoration: underline;
+            text-align: center;
+            font-family: fantasy;
+            
+        }
+        body{
+            background-color:#2C6705;
+            font-family:monospace;
+            background-image: url(https://images.unsplash.com/photo-1586581277029-5769487f3881?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80);
+            
+            
+        }
+    
+        p{
+            color:yellow;
+            background-color:#2C6705;
+            font-size: 24px;
+            text-align: center;
+            font-family:monospace;
+            border: 5px dotted yellow;
+            font-style: italic;
+            font-weight: bolder;
+        }
+        
+        
+        #para2{
+            color:#2C6705;
+            background-color:yellow;
+            font-size: 24px;
+            text-align: center;
+            font-family: serif;
+            border: 5px dotted #2C6705;
+            font-style: italic;
+            font-weight: bolder;
+            
+        }
+        
+        .para3{
+            color:yellow;
+            background-color:#2C6705;
+            font-size: 24px;
+            text-align: center;
+            font-family:monospace;
+            border: 5px dotted yellow;
+            font-style: italic;
+            font-weight: bolder;
+        }
+    
+    </style>
+    
+    
+    <body>
+        <h1>SHUNAN BAMBOO FOREST</h1>
+        
+        <p class="para3">~!!!<strong>CLICK ANY IMAGE BELOW FOR MORE INFORMATION</strong>!!!~</p>
+        <br>
+        <br>
+        <br>
+    <p id="para2">Where is the Shunan Bamboo Forest???</p>    
+        <p class="para3">It is located in <u>Yibin, China!</u></p>
+        <a href="https://en.wikipedia.org/wiki/Yibin">
+        <img src="https://www.topchinatravel.com/pic/city/leshan/attractions/shunan-bamboo-forest-01.jpg" alt="Yibin" height="200px">
+        </a>
+        <br>
+    <p id="para2">What makes it so special???</p>
+        <p class="para3">It is the <u>World's largest bamboo forest</u>and is full of <u>tourist spots!</u></p>
+        <a href="https://www.chinadiscovery.com/sichuan-tours/shunan-bamboo-forest.html">
+        <img src="https://i.pinimg.com/originals/b4/76/7c/b4767c2b31624d7c929a69486dcea293.png""TouristSpots" height="200px">
+        </a>
+        <br>
+    <p id="para2">What are some of these tourist spots???</p>
+        <p class="para3">Some cool ones to check out would be the <u>Bamboo Forest Museum, Quanyun Pavilion, and Xianyu Cave.</u></p>
+        <a href="https://www.chinadiscovery.com/sichuan-tours/shunan-bamboo-forest.html">
+        <img src="http://www.chinatouradvisors.com/UpLoad/201412/Shunnan_Zhuhai_1.jpg" alt="BambooForestMuseum" height="200px">
+        <img src="https://www.chinadiscovery.com/assets/images/sichuan/shunan-bamboo/shunan-bamboo-forest-guanyun-pavilion.jpg" alt="QuanyunPavilion" height="200px">
+        <img src="https://www.easytourchina.com/images/Photo/china-s-oldest-and-biggest-bamboo-forest-shunan-bamboo-forest/p533_d20161115110249_thumb_b.jpg" alt="XianyuCave" height="200px">
+        </a>
+        <br>
+    <p id="para2">What have other tourist said about it?</p>
+        
+        <ol class="para3">HERE ARE SOME REVIEWS FROM TRIPADVISOR.COM</ol>
+        <li class="para3"><em>"Very tranquil area with a relaxed approach to tourism that is hard to find in China. I’d recommend your own transport or get a driver!"-DaveLamb</em></li>
+        <li class="para3"><em>"I like this place. The bamboos are all so tall, first time seeing so many bamboos. Good for vivid photographers. Not many people so u can slowly enjoy your quiet walk."-AQUALUNA1</em></li>
+        <li class="para3"><em>"You could take a cable car over the bamboo forest, go rafting on bamboo rafts, hike to see the waterfalls and visit the famous "bamboo corridor". Lots of greenery that blends well with fog and sunlight!!!"-Wayfarer KC</em></li>
+                    
+        <a href="https://www.tripadvisor.com/Attraction_Review-g1232130-d1824363-Reviews-Shu_nan_Bamboo_Forest-Changning_County_Sichuan.html">
+        <img src="https://www.chinadiscovery.com/assets/images/sichuan/shunan-bamboo/shunan-bambaoo-forest1.jpg" alt="Comments" height="200px">
+        </a>
+        <br>
+    </body>
+</html>
